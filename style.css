@@ -1,0 +1,28 @@
+h1 {
+	background-color: yellow;
+}
+body {
+	background-color: lightyellow;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.img-container {
+	max-width: 800px;
+	padding: 30px;
+	max-height: 800px;
+
+}
+
+img{
+	width: 200px;
+	border: red 5px solid;
+	align: left;
+}
+img:hover{
+	transform: scale(1.1);
+}
